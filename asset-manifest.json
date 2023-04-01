@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Copy/static/css/main.858c11ae.css",
-    "main.js": "/Copy/static/js/main.d57e55ef.js",
-    "static/media/Card.png": "/Copy/static/media/Card.4ae11439493814a01fb4.png",
-    "static/media/caterpie.png": "/Copy/static/media/caterpie.3637713a4392545b9223.png",
-    "static/media/pikachu.jpg": "/Copy/static/media/pikachu.913738c0b4ebc2ddf826.jpg",
-    "static/media/squirtle.png": "/Copy/static/media/squirtle.5406ef593ec743416dcc.png",
-    "static/media/rock.jpg": "/Copy/static/media/rock.903be100f6c59fc74e40.jpg",
-    "static/media/dragon.png": "/Copy/static/media/dragon.e7480bf77a6c2526a9c3.png",
-    "static/media/charizard.jpg": "/Copy/static/media/charizard.6ba1f9b33e49208e5d2e.jpg",
-    "index.html": "/Copy/index.html",
-    "main.858c11ae.css.map": "/Copy/static/css/main.858c11ae.css.map",
-    "main.d57e55ef.js.map": "/Copy/static/js/main.d57e55ef.js.map"
+    "main.css": "/MemoryGame/static/css/main.858c11ae.css",
+    "main.js": "/MemoryGame/static/js/main.1d1a6b54.js",
+    "static/media/Card.png": "/MemoryGame/static/media/Card.4ae11439493814a01fb4.png",
+    "static/media/caterpie.png": "/MemoryGame/static/media/caterpie.3637713a4392545b9223.png",
+    "static/media/pikachu.jpg": "/MemoryGame/static/media/pikachu.913738c0b4ebc2ddf826.jpg",
+    "static/media/squirtle.png": "/MemoryGame/static/media/squirtle.5406ef593ec743416dcc.png",
+    "static/media/rock.jpg": "/MemoryGame/static/media/rock.903be100f6c59fc74e40.jpg",
+    "static/media/dragon.png": "/MemoryGame/static/media/dragon.e7480bf77a6c2526a9c3.png",
+    "static/media/charizard.jpg": "/MemoryGame/static/media/charizard.6ba1f9b33e49208e5d2e.jpg",
+    "index.html": "/MemoryGame/index.html",
+    "main.858c11ae.css.map": "/MemoryGame/static/css/main.858c11ae.css.map",
+    "main.1d1a6b54.js.map": "/MemoryGame/static/js/main.1d1a6b54.js.map"
   },
   "entrypoints": [
     "static/css/main.858c11ae.css",
-    "static/js/main.d57e55ef.js"
+    "static/js/main.1d1a6b54.js"
   ]
 }
